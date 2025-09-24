@@ -8,7 +8,7 @@ AtliQ Hardware, like many other businesses, faced significant losses in the Lati
 
 📌 Live Dashboard
 
-👉 View Dashboard
+👉[ View Dashboard](https://app.powerbi.com/groups/me/reports/04a85822-d932-4770-a3a4-790d9df8b15c?experience=power-bi)
  
 
 🌟 Project Highlights 🌟
